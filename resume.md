@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Graduate Student, Data Science and Analytics, Old Dominion University"
+title: "Resume"
 ---
 
 ![image info](ResumeA.jpg)
