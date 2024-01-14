@@ -17,7 +17,7 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {url: "https://chelsea-lembert.github.io/", title: "Home"}
-  - {file: "Chelsea.pdf", title: "Resume"}
+  - {title: "Resume", file: "resume.md"}
   - {title: "Blog", file: "blog.md"}
   
 
