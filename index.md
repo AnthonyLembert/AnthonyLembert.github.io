@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Blog"
+title: "Graduate Student, Data Science and Analytics, Old Dominion University"
 ---
 With over 16 years in brand development, volunteer recruitment, and narrative creation for various causes, I use my writing, communication, and data analysis skills to craft compelling stories and reports aligning with my client's missions. Additionally, as a Machine Learning Consultant, I offer strategic guidance to clients, harnessing machine learning for data-driven insights to optimize business operations and achieve key strategic goals. 
 
