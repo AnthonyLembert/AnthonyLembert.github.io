@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Graduate Student, Data Science and Analytics, Old Dominion University"
+title: "Dedicated History Major at Oregon State University | Committed to Uncovering the Past to Shape Perspectives of the Future."
 ---
-![image info](Canvas.png#left)
+![image info](Anthonypic.jpg#left)
 
 With over 16 years in brand development, volunteer recruitment, and narrative creation for various causes, I use my writing, communication, and data analysis skills to craft compelling stories and reports aligning with my client's missions. Additionally, as a Machine Learning Consultant, I offer strategic guidance to clients, harnessing machine learning for data-driven insights to optimize business operations and achieve key strategic goals. 
 
